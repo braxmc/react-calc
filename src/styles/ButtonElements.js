@@ -1,4 +1,4 @@
-import styled from 'styled-component'
+import styled from 'styled-components'
 
 export const ButtonWrap = styled.div`
  height: 4em;
@@ -13,7 +13,7 @@ export const ButtonWrap = styled.div`
  outline: 1px solid #888;
 `
 
-export const operator = styled.div`
+export const Operator = styled.div`
   background-color: #fe9241;
   color: #000;
 `
